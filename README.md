@@ -6,7 +6,7 @@ custom config for [rime-english](https://github.com/sdadonkey/rime-english)
 **ctrl+`** 选择English输入模式。
 
 - mac 把本项目的文件copy到`~/Library/Rime/`下，需要先安装 [squirrel](https://github.com/rime/squirrel)。
-- windows 配置目录是 `C:\Users\86159\AppData\Roaming\Rime`，需要先安装小狼毫输入法。 
+- windows 配置目录是 `C:\Users\{user_account_id}\AppData\Roaming\Rime`，需要先安装小狼毫输入法。 
 
 
 luna_pinyin.custom.yaml 只是配合 date_translator 演示一下 librime-lua 插件的能力。
